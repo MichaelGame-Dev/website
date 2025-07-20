@@ -2,12 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Blowfish</title>
-    <link>http://localhost:36551/categories/</link>
+    <link>http://localhost:39153/categories/</link>
     <description>Recent content in Categories on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 </copyright>
-    <atom:link href="http://localhost:36551/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Jul 2025 11:21:00 -0500</lastBuildDate><atom:link href="http://localhost:39153/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>[&#39;Programming&#39;]</title>
+      <link>http://localhost:39153/categories/programming/</link>
+      <pubDate>Sun, 20 Jul 2025 11:21:00 -0500</pubDate>
+      
+      <guid>http://localhost:39153/categories/programming/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>[&#39;Ruby on Rails&#39;]</title>
+      <link>http://localhost:39153/categories/ruby-on-rails/</link>
+      <pubDate>Sun, 20 Jul 2025 11:21:00 -0500</pubDate>
+      
+      <guid>http://localhost:39153/categories/ruby-on-rails/</guid>
+      <description></description>
+      
+    </item>
     
   </channel>
 </rss>
