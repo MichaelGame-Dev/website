@@ -1,3 +1,8 @@
 #+title: About
 
-This is info about this site
+## What is Development With Michael all about?
+This is a site serves a few functions:
+
+ 1. To allow me to showcase my games (especially Radiant Bricks!) and other programming projects
+ 2. To post thoughts about things I learn in programming or areas where I've found difficulty
+ 3. Occasionally posting something more of a tutorial or cookbook style post to share some of the knowledge I've gained.
