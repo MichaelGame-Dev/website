@@ -1,21 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>[&#39;Ruby on Rails&#39;] on Blowfish</title>
-    <link>http://localhost:39153/categories/ruby-on-rails/</link>
-    <description>Recent content in [&#39;Ruby on Rails&#39;] on Blowfish</description>
+    <title>[&#39;Ruby on Rails&#39;] on Development With Michael</title>
+    <link>http://localhost:1313/categories/ruby-on-rails/</link>
+    <description>Recent content in [&#39;Ruby on Rails&#39;] on Development With Michael</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2025 </copyright>
-    <lastBuildDate>Sun, 20 Jul 2025 11:21:00 -0500</lastBuildDate><atom:link href="http://localhost:39153/categories/ruby-on-rails/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>site@michaelgame.dev (Michael)</managingEditor>
+    <webMaster>site@michaelgame.dev (Michael)</webMaster>
+    <copyright>© 2025 Michael</copyright>
+    <lastBuildDate>Sun, 20 Jul 2025 11:21:00 -0500</lastBuildDate><atom:link href="http://localhost:1313/categories/ruby-on-rails/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Early Thoughts About Learning Ruby on Rails,</title>
-      <link>http://localhost:39153/posts/early-thoughts-learn-ruby-on-rails/</link>
+      <title>Early Thoughts About Learning Ruby on Rails</title>
+      <link>http://localhost:1313/posts/early-thoughts-learn-ruby-on-rails/</link>
       <pubDate>Sun, 20 Jul 2025 11:21:00 -0500</pubDate>
-      
-      <guid>http://localhost:39153/posts/early-thoughts-learn-ruby-on-rails/</guid>
-      <description></description>
+      <author>site@michaelgame.dev (Michael)</author>
+      <guid>http://localhost:1313/posts/early-thoughts-learn-ruby-on-rails/</guid>
+      <description>Discussing my early thoughts as I work on learning Ruby on Rails. This article talks about how this journey started, how it&amp;#39;s going, some of the challenges so far as well as where I&amp;#39;m going next.</description>
       
     </item>
     

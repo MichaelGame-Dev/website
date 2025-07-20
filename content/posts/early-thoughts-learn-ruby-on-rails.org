@@ -5,6 +5,7 @@
 #+CATEGORIES: ['Ruby on Rails']
 #+CATEGORIES: ['Programming']
 #+TAGS[]: Ruby Rails RoR programming web
+#+SUMMARY: Discussing my early thoughts as I work on learning Ruby on Rails. This article talks about how this journey started, how it's going, some of the challenges so far as well as where I'm going next.
 
 ** The Journey So Far
 Last year, I watched this [[https://www.youtube.com/watch?v=mTa2d3OLXhg][video]]. In it [[p][ThePrimeagen]] and [[https://x.com/ThePrimeagen][TJ DeVries]] interview [[https://x.com/dhh][DHH]]. While the interview goes over a lot of different topics, what appealed to me the most was the way DHH talked about his love for Ruby. I've heard people talk about why they like or love a programming language, but I don't know that I've heard anyone talk about it with that much zeal and excitement.

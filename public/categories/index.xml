@@ -1,30 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Blowfish</title>
-    <link>http://localhost:39153/categories/</link>
-    <description>Recent content in Categories on Blowfish</description>
+    <title>Categories on Development With Michael</title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in Categories on Development With Michael</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2025 </copyright>
-    <lastBuildDate>Sun, 20 Jul 2025 11:21:00 -0500</lastBuildDate><atom:link href="http://localhost:39153/categories/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>site@michaelgame.dev (Michael)</managingEditor>
+    <webMaster>site@michaelgame.dev (Michael)</webMaster>
+    <copyright>© 2025 Michael</copyright>
+    <lastBuildDate>Sun, 20 Jul 2025 11:21:00 -0500</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>[&#39;Programming&#39;]</title>
-      <link>http://localhost:39153/categories/programming/</link>
+      <link>http://localhost:1313/categories/programming/</link>
       <pubDate>Sun, 20 Jul 2025 11:21:00 -0500</pubDate>
-      
-      <guid>http://localhost:39153/categories/programming/</guid>
+      <author>site@michaelgame.dev (Michael)</author>
+      <guid>http://localhost:1313/categories/programming/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>[&#39;Ruby on Rails&#39;]</title>
-      <link>http://localhost:39153/categories/ruby-on-rails/</link>
+      <link>http://localhost:1313/categories/ruby-on-rails/</link>
       <pubDate>Sun, 20 Jul 2025 11:21:00 -0500</pubDate>
-      
-      <guid>http://localhost:39153/categories/ruby-on-rails/</guid>
+      <author>site@michaelgame.dev (Michael)</author>
+      <guid>http://localhost:1313/categories/ruby-on-rails/</guid>
       <description></description>
       
     </item>

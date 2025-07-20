@@ -3,30 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:39153/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-07-20T11:21:00-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:39153/posts/early-thoughts-learn-ruby-on-rails/</loc>
+    <loc>http://localhost:1313/posts/early-thoughts-learn-ruby-on-rails/</loc>
     <lastmod>2025-07-20T11:21:00-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:39153/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-07-20T11:21:00-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:39153/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:39153/games/</loc>
+    <loc>http://localhost:1313/games/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

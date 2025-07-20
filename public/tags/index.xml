@@ -1,60 +1,62 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Blowfish</title>
-    <link>http://localhost:39153/tags/</link>
-    <description>Recent content in Tags on Blowfish</description>
+    <title>Tags on Development With Michael</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Development With Michael</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2025 </copyright>
-    <lastBuildDate>Sun, 20 Jul 2025 11:21:00 -0500</lastBuildDate><atom:link href="http://localhost:39153/tags/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>site@michaelgame.dev (Michael)</managingEditor>
+    <webMaster>site@michaelgame.dev (Michael)</webMaster>
+    <copyright>© 2025 Michael</copyright>
+    <lastBuildDate>Sun, 20 Jul 2025 11:21:00 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Programming</title>
-      <link>http://localhost:39153/tags/programming/</link>
+      <link>http://localhost:1313/tags/programming/</link>
       <pubDate>Sun, 20 Jul 2025 11:21:00 -0500</pubDate>
-      
-      <guid>http://localhost:39153/tags/programming/</guid>
+      <author>site@michaelgame.dev (Michael)</author>
+      <guid>http://localhost:1313/tags/programming/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Rails</title>
-      <link>http://localhost:39153/tags/rails/</link>
+      <link>http://localhost:1313/tags/rails/</link>
       <pubDate>Sun, 20 Jul 2025 11:21:00 -0500</pubDate>
-      
-      <guid>http://localhost:39153/tags/rails/</guid>
+      <author>site@michaelgame.dev (Michael)</author>
+      <guid>http://localhost:1313/tags/rails/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>RoR</title>
-      <link>http://localhost:39153/tags/ror/</link>
+      <link>http://localhost:1313/tags/ror/</link>
       <pubDate>Sun, 20 Jul 2025 11:21:00 -0500</pubDate>
-      
-      <guid>http://localhost:39153/tags/ror/</guid>
+      <author>site@michaelgame.dev (Michael)</author>
+      <guid>http://localhost:1313/tags/ror/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Ruby</title>
-      <link>http://localhost:39153/tags/ruby/</link>
+      <link>http://localhost:1313/tags/ruby/</link>
       <pubDate>Sun, 20 Jul 2025 11:21:00 -0500</pubDate>
-      
-      <guid>http://localhost:39153/tags/ruby/</guid>
+      <author>site@michaelgame.dev (Michael)</author>
+      <guid>http://localhost:1313/tags/ruby/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Web</title>
-      <link>http://localhost:39153/tags/web/</link>
+      <link>http://localhost:1313/tags/web/</link>
       <pubDate>Sun, 20 Jul 2025 11:21:00 -0500</pubDate>
-      
-      <guid>http://localhost:39153/tags/web/</guid>
+      <author>site@michaelgame.dev (Michael)</author>
+      <guid>http://localhost:1313/tags/web/</guid>
       <description></description>
       
     </item>
