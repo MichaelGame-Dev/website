@@ -14,7 +14,7 @@ logo = "Michael Game Dev Logo 100x1000.png"
   [params.author]
   name = "Michael"
   email = "site@michaelgame.dev"
-  image = "img/blowfish_logo.png"
+  # image = "img/blowfish_logo.png"
   imageQuality = 96
   headline = "Just a guy trying to get better at programming"
 
