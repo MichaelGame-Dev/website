@@ -1,4 +1,4 @@
-#+title: Early Thoughts About Learning Ruby on Rails,
+#+title: Early Thoughts About Learning Ruby on Rails
 #+DATE: 2025-07-20T11:21:00-05:00
 #+AUTHOR: Michael
 #+DESCRIPTION: My early thoughts about my time learning Ruby on Rails, what lead me here and where I plan to go from there.
